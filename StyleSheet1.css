@@ -1,0 +1,73 @@
+﻿body {
+    /* Style for the main container */
+#form1 {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+/* Style for the header */
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+#menubar {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+/* Style for the menu */
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0;
+}
+
+.navbar a {
+  color: #fff;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #555;
+}
+
+/* Style for the main content */
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.column {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.column img {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+}
