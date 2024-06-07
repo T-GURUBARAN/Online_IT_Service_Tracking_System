@@ -1,0 +1,43 @@
+E:\Project 2023\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.csprojResolveAssemblyReference.cache
+E:\Project 2023\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+E:\Project 2023\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+E:\Project 2023\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+E:\Project 2023\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+E:\Project 2023\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+C:\Users\Abs Tom\Downloads\Online IT Service Tracking System-20230225T035303Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.csprojResolveAssemblyReference.cache
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.cache
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.compiled
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+E:\Online IT Service Tracking System-20230228T093510Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.csprojResolveAssemblyReference.cache
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.cache
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.compiled
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+E:\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.cache
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\RdlCompile.compiled
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+C:\Users\Student\Downloads\new\Online IT Service Tracking System-20230402T141935Z-001\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll.config
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\bin\Online IT Service Tracking System.dll
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\bin\Online IT Service Tracking System.pdb
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\obj\Debug\RdlCompile.cache
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\obj\Debug\RdlCompile.compiled
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.dll
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.pdb
+C:\Users\Student\Downloads\new\Online IT Service Tracking System\obj\Debug\Online IT Service Tracking System.csprojResolveAssemblyReference.cache
